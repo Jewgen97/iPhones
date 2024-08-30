@@ -12,4 +12,4 @@ def sell_iPhone(quantity):
 sell_iPhone(10)  # Sell 10 iPhones
 sell_iPhone(5)   # Sell 5 more iPhones
 
-# You can continue selling more iPhones by calling sell_iPhone() with different quantities
+
