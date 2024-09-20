@@ -10,6 +10,6 @@ def sell_iPhone(quantity):
 
 # Example usage:
 sell_iPhone(10)  # Sell 10 iPhones
-sell_iPhone(5)   # Sell 5 more iPhones
+sell_iPhone(5)   # Sell 10 more iPhones
 
 
