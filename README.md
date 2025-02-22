@@ -10,5 +10,5 @@ def sell_iPhone(quantity):
 
 # Example usage:
 sell_iPhone(10)  # Sell 10 iPhones
-
+# iPhones
 
